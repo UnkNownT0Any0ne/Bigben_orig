@@ -1,0 +1,131 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.header{
+    display: flex;
+    width: 100%;
+}
+.menu {
+    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+    padding-left: 100px;
+}
+li,ul{
+    display: flex;  
+}
+li a{
+    text-decoration: none;
+    font-family: 'Kelly Slab';
+    font-style: normal;
+    font-weight: 400;  
+}
+.logo{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 75px;
+}
+.nav{
+    padding: 0;
+    margin: 0;
+    width: 900px;
+    padding-top: 38px;
+    padding-bottom: 38px;
+
+}
+.start{
+    padding: 0;
+    margin: 0;
+    padding-top: 25px;
+    position: relative;
+    
+}
+.fon_start{
+    width: 100%;
+    text-align: center;
+}
+.start span{
+    position: absolute;
+width: 596px;
+height: 116px;
+left: 422px;
+top: 317px;
+bottom: 0px;
+right: 0px;
+left: 0px;
+padding-left: 600px;
+padding-top: 192px;
+padding-right: 422px;
+top: 0px;
+font-family: 'Kelly Slab';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+color: #FFFFFF;
+text-shadow: 7px 4px 4px rgba(0, 0, 0, 0.25);
+text-align: center;   
+}
+.punkt{
+    margin: 0;
+    padding: 0;
+    padding-top: 70px;
+    padding-left: 358px;
+    padding-right: 358px;
+    width: 470px;
+height: 58px;
+left: 493px;
+top: 695px;
+
+font-family: 'Kelly Slab';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+}
+.fon_pre{
+    padding: 0;
+    margin: 0;
+    padding-top: 85px;
+}
+.follow{
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+.fon_follow{
+    width: 100%;
+    padding-top: 70px;
+}
+.punkt2{
+    margin: 0;
+    padding: 0;
+    padding-top: 70px;
+    padding-left: 358px;
+    padding-right: 358px;
+    width: 470px;
+height: 58px;
+left: 493px;
+top: 695px;
+
+font-family: 'Kelly Slab';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+}
